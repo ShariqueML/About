@@ -1,4 +1,4 @@
-👋 Hi, I’m @MohdShariqueAnsari
+👋 Hi, I’m @MohdSharique
 👀 I’m interested in Data Analyst,Machine Learning and Deep learning
 🌱 I’m currently learning Machine learning and Deep Learning
 💞️ I’m looking to collaborate on Machine Learning problems
